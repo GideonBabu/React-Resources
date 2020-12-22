@@ -12,4 +12,7 @@
  
  # React Hooks
  * 'Hook into' state and lifecycle methods of components without using classes
+ * helps to stick with only functional components across the board
+ * Useful in improving the readability and organization of components
+ * React.useState() can be used to add state to your functional components
  
